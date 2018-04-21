@@ -3,5 +3,4 @@
     "python.linting.pylintPath": "C:\\Shadi\\projects\\pluralsite\\django\\withangular\\venv1\\Scripts\\pylint.exe",
     "python.linting.mypyCategorySeverity.error": "Hint",
     "python.linting.pylintArgs": ["--load-plugins=pylint_django"],
-    "python.envFile": "${workspaceFolder}/file.envFile"
 }
