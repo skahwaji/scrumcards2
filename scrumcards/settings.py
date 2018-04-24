@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'scrumboard'
+    'scrumboard',
+    'rest_framework' #if you add this, you will be able to see the API results on a browser
 ]
 
 MIDDLEWARE = [
